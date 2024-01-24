@@ -18,4 +18,3 @@
 | 🟥 High   | [TOFT exerciseOption can be used to steal all underlying erc20 tokens](https://github.com/code-423n4/2023-07-tapioca-findings/issues/1307) |
 | 🟨 Medium | [TOFT exerciseOption fails due to not passing msg.value properly](https://github.com/code-423n4/2023-07-tapioca-findings/issues/1248) |
 | 🟨 Medium | [Airdropped tokens can be stolen by a bot](https://github.com/code-423n4/2023-07-tapioca-findings/issues/1300) |
-| 🟨 Medium | [Airdropped tokens can be stolen by a bot](https://github.com/code-423n4/2023-07-tapioca-findings/issues/1300) |
