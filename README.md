@@ -18,11 +18,12 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 
 ## Bug Bounty
 
-| Program                                                         | Description                                                        | Severity  | Writeup  |
-|:----------------------------------------------------------------|:-------------------------------------------------------------------|:---------:|:--------:|
-| [PancakeSwap](https://immunefi.com/bounty/pancakeswap/)         | DoS attack on the CakeOFTs disabling cross-chain communication     |  Medium   |    -     |
-| [Radiant Capital](https://immunefi.com/bounty/radiant/)         | DoS attack on the RadiantOFTs disabling cross-chain communication  |  Medium   |    -     |
-| [Lybra Finance V2](https://immunefi.com/bounty/lybrafinance/)   | DoS attack on the peUSD disabling cross-chain communication        |  Medium   |    -     |
+| Program                                                                                                              | Description                                                       | Severity  | Writeup  |
+|:---------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------|:---------:|:--------:|
+| [PancakeSwap](https://immunefi.com/bounty/pancakeswap/)                                                              | DoS attack on the CakeOFTs disabling cross-chain communication    |  Medium   |    -     |
+| [Radiant Capital](https://immunefi.com/bounty/radiant/)                                                              | DoS attack on the RadiantOFTs disabling cross-chain communication |  Medium   |    -     |
+| [Lybra Finance V2](https://immunefi.com/bounty/lybrafinance/)                                                        | DoS attack on the peUSD disabling cross-chain communication       |  Medium   |    -     |
+| [Premia Finance](https://app.hats.finance/bug-bounties/premia-bug-bounty-0xdaf2a62e238001cbc595628e46984734990e2c4d) | DoS attack on the vxPremia disabling cross-chain communication    |  Medium   |    -     |
 
 ## Private Engagements
 
