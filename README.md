@@ -18,11 +18,17 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 
 ## Bug Bounty
 
-| Program                                                         | Description                                                                                                                               | Severity  | Writeup  |
-|:----------------------------------------------------------------|:------------------------------------------------------------|:---------:|:--------:|
-| [PancakeSwap](https://immunefi.com/bounty/pancakeswap/)         | DoS attack on the CakeOFTs disabling cross-chain communication|  Medium   |    -     |
-| [Radiant Capital](https://immunefi.com/bounty/radiant/)         | DoS attack on the RadiantOFTs disabling cross-chain communication|  Medium   |    -     |
-| [Lybra Finance V2](https://immunefi.com/bounty/lybrafinance/)   | DoS attack on the peUSD disabling cross-chain communication |  Medium   |    -     |
+| Program                                                         | Description                                                        | Severity  | Writeup  |
+|:----------------------------------------------------------------|:-------------------------------------------------------------------|:---------:|:--------:|
+| [PancakeSwap](https://immunefi.com/bounty/pancakeswap/)         | DoS attack on the CakeOFTs disabling cross-chain communication     |  Medium   |    -     |
+| [Radiant Capital](https://immunefi.com/bounty/radiant/)         | DoS attack on the RadiantOFTs disabling cross-chain communication  |  Medium   |    -     |
+| [Lybra Finance V2](https://immunefi.com/bounty/lybrafinance/)   | DoS attack on the peUSD disabling cross-chain communication        |  Medium   |    -     |
+
+## Private Engagements
+
+### January 2024
+
+- [GasBotV2 - Cross-chain refuel protocol](./solo/GasbotV2-Security-Review.md)
 
 
 ## Feedback
@@ -37,6 +43,10 @@ What people say about my work:
 <p align="center">
   <img src="./assets/layer-zero.png" width="250"/>
   <img src="./assets/donation-bug-report.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="./assets/django.png" width="250"/>
 </p>
 
 
