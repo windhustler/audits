@@ -50,6 +50,7 @@ What people say about my work:
 
 <p align="center">
   <img src="./assets/django.png" width="250"/>
+  <img src="./assets/whitehat_bandit.png" width="250"/>
 </p>
 
 
