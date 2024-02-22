@@ -32,6 +32,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 
 - [GasBotV2 - Cross-chain refuel protocol](./solo/GasbotV2-Security-Review.md)
 - [ProphetBots Router - Custom Univ2 Router](./solo/Prophet-Router-Security-Review.md)
+- [LayerZero V2 - Omnichain Interoperability Protocol](./solo/LayerZero-V2-Security-Review.pdf)
 
 
 ## Feedback
