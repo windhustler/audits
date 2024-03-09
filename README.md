@@ -7,6 +7,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 
 | Duration             | Contest                                                                       | Description                                                                                 | Ranking |
 |:---------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
+| 19 Jan - 23 Jan 2024 | [Catalyst Exchange](./reports/Catalyst-Exchange-Security-Review.md)           | Cross-chain liquidity protocol and generalized incentive mechanism for AMBs                 |    -    |
 | 19 Jan - 23 Jan 2024 | [Decent](./reports/Decent-Security-Review.md)                                 | Cross-chain token transactions with LayerZero/Stargate                                      |   1st   |
 | 16 Oct - 28 Oct 2023 | [Aloe](./reports/Aloe-Security-Review.md)                                     | Permissionless lending built on top of Uniswap V3                                           |   1st   |
 | 5 Oct - 11 Oct 2023  | [ENS](./reports/ENS-Security-Review.md)                                       | ERC20Votes compatible multi-delegation contract to manage user votings                      |    -    |
