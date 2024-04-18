@@ -7,6 +7,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 
 | Duration             | Contest                                                                       | Description                                                                                 | Ranking |
 |:---------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
+| 23 Feb - 15 Mar 2024 | [Tapioca DAO Sherlock](./reports/Tapioca-DAO-Sherlock-Security-Review.md)     | Omnichain money market powered by LayerZero                                                 |   6th   |
 | 24 Jan - 07 Feb 2024 | [Catalyst Exchange](./reports/Catalyst-Exchange-Security-Review.md)           | Cross-chain liquidity protocol and generalized incentive mechanism for AMBs                 |    -    |
 | 19 Jan - 23 Jan 2024 | [Decent](./reports/Decent-Security-Review.md)                                 | Cross-chain token transactions with LayerZero/Stargate                                      |   1st   |
 | 16 Oct - 28 Oct 2023 | [Aloe](./reports/Aloe-Security-Review.md)                                     | Permissionless lending built on top of Uniswap V3                                           |   1st   |
@@ -15,7 +16,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 | 25 Aug - 12 Sep 2023 | [Chainlink Staking v0.2](./reports/Chainlink-Staking-v0.2-Security-Review.md) | The 2nd iteration of Chainlink Staking                                                      |    -    |
 | 21 Aug - 28 Aug 2023 | [Shell Protocol](./reports/Shell-Protocol-Proteus-Security-Review.md)         | Proteus AMM Engine, a hybrid between a Balancer liquidity bootstrapping pool and Uniswap v3 |    -    |
 | 7 Aug - 10 Aug 2023  | [Canto veRWA](./reports/Canto-veRWA-Security-Review.md)                       | Incentivization primitive for real world assets on Canto                                    |    -    |
-| 5 Jul - 4 Aug 2023   | [Tapioca DAO](./reports/Tapioca-DAO-Security-Review.md)                       | Omnichain money market powered by LayerZero                                                 |   3rd   |
+| 5 Jul - 4 Aug 2023   | [Tapioca DAO Code4rena](./reports/Tapioca-DAO-C4-Security-Review.md)          | Omnichain money market powered by LayerZero                                                 |   3rd   |
 
 
 ## Bug Bounty
