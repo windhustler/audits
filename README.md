@@ -40,6 +40,10 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 
 - [Phuture V2- Omnichain Index Protocol](./solo/Phuture-V2-Security-Review.pdf)
 
+### March 2024
+
+- [DYAD - Overcollateralized Stablecoin](./solo/DYAD-Security-Review.pdf)
+
 
 ## Feedback
 
