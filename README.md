@@ -44,6 +44,10 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 
 - [DYAD - Overcollateralized Stablecoin](./solo/DYAD-Security-Review.pdf)
 
+### April 2024
+
+- [Wagmi Leverage - Leverage protocol on UniV3](./solo/Wagmi-Security-Review.pdf)
+
 
 ## Feedback
 
