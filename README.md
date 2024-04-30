@@ -47,6 +47,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 ### April 2024
 
 - [Wagmi Leverage - Leverage protocol on UniV3](./solo/Wagmi-Security-Review.pdf)
+- [PING OFT - ERC20 nontransferable across chain via LayerZeroV2 ](./solo/PING-Security-Review.pdf)
 
 
 ## Feedback
