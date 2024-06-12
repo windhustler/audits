@@ -50,6 +50,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 - [PING OFT - ERC20 transferable across chains via LayerZeroV2 ](./solo/PING-Security-Review.pdf)
 
 ### May 2024
+- [Euler Finance - Reward Streams](./solo/Euler-Finance-Security-Review.pdf)
 - [TapiocaDAO - Omnichain money market powered by LayerZero](./solo/TapiocaDAO-Security-Review.pdf)
 
 ## Feedback
