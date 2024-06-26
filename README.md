@@ -53,6 +53,9 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 - [Euler Finance - Reward Streams](./solo/Euler-Finance-Security-Review.pdf)
 - [TapiocaDAO - Omnichain money market powered by LayerZero](./solo/TapiocaDAO-Security-Review.pdf)
 
+### June 2024
+- [Chainlink EMA - EMA oracle for Chainlink](./solo/Bailsec-defi.money-ChainlinkEMA.pdf)
+
 ## Feedback
 
 What people say about my work:
