@@ -54,7 +54,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 - [TapiocaDAO - Omnichain money market powered by LayerZero](./solo/TapiocaDAO-Security-Review.pdf)
 
 ### June 2024
-- [Chainlink EMA - EMA oracle for Chainlink](./solo/Bailsec-defi.money-ChainlinkEMA.pdf)
+- [Chainlink EMA - Chainlink EMA Oracle](./solo/Bailsec-defi.money-ChainlinkEMA.pdf)
 
 ## Feedback
 
