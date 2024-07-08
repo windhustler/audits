@@ -1,6 +1,6 @@
 # Introduction
 
-A time-boxed security review of the **ProphetRouterV1** protocol was done by **Josip Končurat**, focusing on the security aspects of the smart contracts.
+A time-boxed security review of the **ProphetRouterV1** protocol was done by **Windhustler**, focusing on the security aspects of the smart contracts.
 
 # Disclaimer
 
@@ -8,9 +8,9 @@ A smart contract security review can never verify the complete absence of vulner
 This is a time, resource, and expertise-bound effort where I try to find as many vulnerabilities as possible.
 I can not guarantee 100% security after the review or even if the review will find any vulnerabilities. Subsequent security reviews, bug bounty programs, and on-chain monitoring are recommended.
 
-# About Josip Končurat
+# About Windhustler
 
-**Josip Končurat** is an independent smart contract security researcher.
+**Windhustler** is an independent smart contract security researcher.
 Having extensive experience in developing and managing DeFi projects holding millions in TVL, he is putting his best efforts into security research & reviews.
 Check his previous work [here](https://github.com/windhustler/audits) or reach out on X [@windhustler](https://twitter.com/windhustler).
 
