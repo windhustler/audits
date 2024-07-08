@@ -56,6 +56,9 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 ### June 2024
 - [Chainlink EMA - Chainlink EMA Oracle](./solo/Bailsec-defi.money-ChainlinkEMA.pdf)
 
+### July 2024
+- [Drips - LayerZeroV2 integration](./solo/Drips-Security-Review.pdf)
+
 ## Feedback
 
 What people say about my work:
