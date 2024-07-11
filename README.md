@@ -58,6 +58,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 
 ### July 2024
 - [Drips - LayerZeroV2 integration](./solo/Drips-Security-Review.pdf)
+- [Clave Ztake - Staking Rewards](./solo/Clave-Ztake-Security-Review.pdf)
 
 ## Feedback
 
