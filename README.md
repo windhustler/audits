@@ -18,7 +18,6 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 | 7 Aug - 10 Aug 2023  | [Canto veRWA](./reports/Canto-veRWA-Security-Review.md)                       | Incentivization primitive for real world assets on Canto                                    |    -    |
 | 5 Jul - 4 Aug 2023   | [Tapioca DAO Code4rena](./reports/Tapioca-DAO-C4-Security-Review.md)          | Omnichain money market powered by LayerZero                                                 |   3rd   |
 
-
 ## Bug Bounty
 
 | Program                                                                                                              | Description                                                       | Severity  | Writeup  |
@@ -47,7 +46,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 ### April 2024
 
 - [Wagmi Leverage - Leverage protocol on UniV3](./solo/Wagmi-Security-Review.pdf)
-- [PING OFT - ERC20 transferable across chains via LayerZeroV2 ](./solo/PING-Security-Review.pdf)
+- [PING OFT - ERC20 transferable across chains via LayerZeroV2](./solo/PING-Security-Review.pdf)
 
 ### May 2024
 - [Euler Finance - Reward Streams](./solo/Euler-Finance-Security-Review.pdf)
@@ -59,6 +58,9 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 ### July 2024
 - [Drips - LayerZeroV2 integration](./solo/Drips-Security-Review.pdf)
 - [Clave Ztake - Staking Rewards](./solo/Clave-Ztake-Security-Review.pdf)
+
+### September 2024
+- [OFTExtended - OFT with limits](./solo/OFTExtended-Security-Review.pdf)
 
 ## Feedback
 
