@@ -36,7 +36,6 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 - [LayerZero V2 - Omnichain Interoperability Protocol](./solo/LayerZero-V2-Security-Review.pdf)
 
 ### February 2024
-
 - [Phuture V2- Omnichain Index Protocol](./solo/Phuture-V2-Security-Review.pdf)
 
 ### March 2024
@@ -61,6 +60,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 
 ### September 2024
 - [OFTExtended - OFT with additional features(limits, fees)](./solo/OFTExtended-Security-Review.pdf)
+- [Superform core - Cross-chain liquidity protocol](./solo/Superform-core-Security-Review.pdf)
 
 ## Feedback
 
