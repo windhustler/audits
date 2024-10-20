@@ -36,7 +36,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 - [LayerZero V2 - Omnichain Interoperability Protocol](./solo/LayerZero-V2-Security-Review.pdf)
 
 ### February 2024
-- [Phuture V2- Omnichain Index Protocol](./solo/Phuture-V2-Security-Review.pdf)
+- [Phuture V2- Omnichain Index Protocol](./team/Phuture-V2-Security-Review.pdf)
 
 ### March 2024
 
@@ -44,23 +44,28 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 
 ### April 2024
 
-- [Wagmi Leverage - Leverage protocol on UniV3](./solo/Wagmi-Security-Review.pdf)
+- [Wagmi Leverage - Leverage protocol on UniV3](./team/Wagmi-Security-Review.pdf)
 - [PING OFT - ERC20 transferable across chains via LayerZeroV2](./solo/PING-Security-Review.pdf)
 
 ### May 2024
-- [Euler Finance - Reward Streams](./solo/Euler-Finance-Security-Review.pdf)
+- [Euler Finance - Reward Streams](./team/Euler-Finance-Security-Review.pdf)
 - [TapiocaDAO - Omnichain money market powered by LayerZero](./solo/TapiocaDAO-Security-Review.pdf)
+- [X28 - TitanX Burn and Auction Contracts](./team/X28-Hunter-Security-Review.pdf)
 
 ### June 2024
-- [Chainlink EMA - Chainlink EMA Oracle](./solo/Bailsec-defi.money-ChainlinkEMA.pdf)
+- [Chainlink EMA - Chainlink EMA Oracle](./team/Bailsec-defi.money-ChainlinkEMA.pdf)
 
 ### July 2024
-- [Drips - LayerZeroV2 integration](./solo/Drips-Security-Review.pdf)
-- [Clave Ztake - Staking Rewards](./solo/Clave-Ztake-Security-Review.pdf)
+- [Drips - LayerZeroV2 integration](./team/Drips-Security-Review.pdf)
+- [Clave Ztake - Staking Rewards](./team/Clave-Ztake-Security-Review.pdf)
+- [Parallel Bridge - OFT with limits and fees](./team/Bailsec-ParallelBridge-BridgeableToken-Security-Review.pdf)
+
+### August 2024
+- [TapiocaDAO - StargateV2 integration](./solo/TapiocaDAO-StargateV2-Security-Review.pdf)
 
 ### September 2024
-- [OFTExtended - OFT with additional features(limits, fees)](./solo/OFTExtended-Security-Review.pdf)
-- [Superform core - Cross-chain liquidity protocol](./solo/Superform-core-Security-Review.pdf)
+- [OFTExtended - OFT with limits and fees)](./solo/OFTExtended-Security-Review.pdf)
+- [Superform core - Cross-chain liquidity protocol](./team/Superform-core-Security-Review.pdf)
 
 ## Feedback
 
