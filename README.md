@@ -64,7 +64,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 - [TapiocaDAO - StargateV2 integration](./solo/TapiocaDAO-StargateV2-Security-Review.pdf)
 
 ### September 2024
-- [OFTExtended - OFT with limits and fees)](./solo/OFTExtended-Security-Review.pdf)
+- [OFTExtended - OFT with limits and fees)(./solo/OFTExtended-Security-Review.pdf)
 - [Superform core - Cross-chain liquidity protocol](./team/Superform-core-Security-Review.pdf)
 
 ## Feedback
