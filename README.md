@@ -67,6 +67,9 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 - [OFTExtended - OFT with limits and fees](./solo/OFTExtended-Security-Review.pdf)
 - [Superform core - Cross-chain liquidity protocol](./team/Superform-core-Security-Review.pdf)
 
+### October 2024
+- [Clave - Email Recovery on ZkSync](./team/Clave-EmailRecovery-Security-Review.pdf)
+
 ## Feedback
 
 What people say about my work:
