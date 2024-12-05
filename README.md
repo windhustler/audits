@@ -70,6 +70,9 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 ### October 2024
 - [Clave - Email Recovery on ZkSync](./team/Clave-EmailRecovery-Security-Review.pdf)
 
+### November 2024
+- [Velodrome - Expansion to OP chains](./team/Velodrome-Security-Review.pdf) 
+
 ## Feedback
 
 What people say about my work:
