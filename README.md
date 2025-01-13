@@ -73,6 +73,9 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 ### November 2024
 - [Velodrome - Expansion to OP chains](./team/Velodrome-Security-Review.pdf) 
 
+### December 2024
+- [Bitcorn OFT - USDC bridging from Ethereum to Corn](./solo/Bitcorn-OFT-Security-Review.pdf)
+
 ## Feedback
 
 What people say about my work:
