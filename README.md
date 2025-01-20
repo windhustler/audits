@@ -76,6 +76,9 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 ### December 2024
 - [Bitcorn OFT - USDC bridging from Ethereum to Corn](./solo/Bitcorn-OFT-Security-Review.pdf)
 
+### January 2025
+- [Tether OFT - Cross chain USDT](./team/Tether-OFT-Security-Review.pdf)
+
 ## Feedback
 
 What people say about my work:
