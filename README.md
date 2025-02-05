@@ -78,6 +78,7 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 
 ### January 2025
 - [Tether OFT - Cross chain USDT](./team/Tether-OFT-Security-Review.pdf)
+- [Puffer - ERC20 Staking](./team/Puffer-Staking-Security-Review.pdf)
 
 ## Feedback
 
