@@ -54,31 +54,50 @@ You can also request a quote through my [Code4rena profile](https://code4rena.co
 
 ### June 2024
 - [Chainlink EMA - Chainlink EMA oracle](./team/Bailsec-defi.money-ChainlinkEMA.pdf)
+- PsyDAO - NFT marketplace 
 
 ### July 2024
 - [Drips - LayerZeroV2 integration](./team/Drips-Security-Review.pdf)
 - [Clave Ztake - Staking rewards](./team/Clave-Ztake-Security-Review.pdf)
 - [Parallel Bridge - OFT with limits and fees](./team/Bailsec-ParallelBridge-BridgeableToken-Security-Review.pdf)
+- QuantumFair - Raffle marketplace for public goods
 
 ### August 2024
 - [TapiocaDAO - StargateV2 integration](./solo/TapiocaDAO-StargateV2-Security-Review.pdf)
+- Decent - Cross-chain swaps
 
 ### September 2024
 - [OFTExtended - OFT with limits and fees](./solo/OFTExtended-Security-Review.pdf)
 - [Superform core - Cross-chain liquidity protocol](./team/Superform-core-Security-Review.pdf)
+- Gravity - Derivatives exchange on zkSync
 
 ### October 2024
 - [Clave - Email Recovery on ZkSync](./team/Clave-EmailRecovery-Security-Review.pdf)
 
 ### November 2024
 - [Velodrome - Expansion to OP chains](./team/Velodrome-Security-Review.pdf) 
+- IVX Finance - Decentralized options AMM
+- MRG - Bitcoin staking
 
 ### December 2024
 - [Bitcorn OFT - USDC bridging from Ethereum to Corn](./solo/Bitcorn-OFT-Security-Review.pdf)
+- PaintSwap - OFT token
 
 ### January 2025
 - [Tether OFT - Cross chain USDT](./team/Tether-OFT-Security-Review.pdf)
 - [Puffer - ERC20 Staking](./team/Puffer-Staking-Security-Review.pdf)
+- Azuki - Anime claimer using lzRead functionality
+
+### February 2025
+- Yuga Labs - NFT Mirror
+- Dinero - Cross-chain syncing PR
+- Berachain - NFT-based vesting streams
+- MyShell - OFT token
+- Stream - Yield bearing vaults
+- Satoshi - Cross-chain staking farm
+
+### March 2025
+- Khalani - Intents protocol
 
 ## Feedback
 
