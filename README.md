@@ -1,7 +1,6 @@
 # Audit Portfolio - GiuseppeDeLaZara
 
-Reach out for consulting and security reviews via [**X**](https://twitter.com/windhustler), or **Discord** @windhustler.
-You can also request a quote through my [Code4rena profile](https://code4rena.com/@windhustler).
+Reach out for consulting and security reviews via [**X**](https://twitter.com/windhustler), or **Discord**/**Telegram** @windhustler.
 
 ## Competitive Audits
 
