@@ -76,7 +76,7 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 ### November 2024
 - [Velodrome - Expansion to OP chains](./team/Velodrome-Security-Review.pdf) 
 - IVX Finance - Decentralized options AMM
-- [MRG - Bitcoin staking](./team/MRG-Cantina-Security-Review.pdf)
+- [MRG - Bitcoin staking](./team/Mrg-Cantina-Security-Review.pdf)
 
 ### December 2024
 - [Bitcorn OFT - USDC bridging from Ethereum to Corn](./solo/Bitcorn-OFT-Security-Review.pdf)
