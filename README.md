@@ -85,7 +85,7 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 ### January 2025
 - [Tether OFT - Cross chain USDT](./team/Tether-OFT-Security-Review.pdf)
 - [Puffer - ERC20 Staking](./team/Puffer-Staking-Security-Review.pdf)
-- Azuki - Anime claimer using lzRead functionality
+- [Azuki - Anime claimer using lzRead functionality](./team/Anime-Claimer-Security-Review.pdf)
 
 ### February 2025
 - Yuga Labs - NFT Mirror
