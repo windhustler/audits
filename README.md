@@ -92,7 +92,7 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 - Dinero - Cross-chain syncing PR
 - Berachain - NFT-based vesting streams
 - MyShell - OFT token
-- Stream - Yield bearing vaults
+- [Stream - Yield bearing vaults](./team/Stream-Zenith-Security-Review.pdf)
 - Satoshi - Cross-chain staking farm
 
 ### March 2025
