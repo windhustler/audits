@@ -100,7 +100,7 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 
 ### April 2024
 - [PaintSwap - OFT token](./team/Paintswap-Security-Review.pdf)
-- 
+
 ## Feedback
 
 What people say about my work:
