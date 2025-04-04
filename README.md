@@ -99,7 +99,7 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 - Khalani - Intents protocol
 
 ### April 2024
-- [PaintSwap - OFT token](Paintswap-Security-Review.pdf)
+- [PaintSwap - OFT token](./team/Paintswap-Security-Review.pdf)
 - 
 ## Feedback
 
