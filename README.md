@@ -1,4 +1,4 @@
-# Audit Portfolio - GiuseppeDeLaZara
+# Audit Portfolio - Windhustler
 
 Reach out for consulting and security reviews via [**X**](https://twitter.com/windhustler), or **Discord**/**Telegram** @windhustler.
 
