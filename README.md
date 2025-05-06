@@ -88,7 +88,7 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 - [Azuki - Anime claimer using lzRead functionality](./team/Anime-Claimer-Security-Review.pdf)
 
 ### February 2025
-- Yuga Labs - NFT Mirror
+- [Yuga Labs - NFT Mirror](./team/2025-02-05-YugaLabs-NFT-Shadows.pdf)
 - Dinero - Cross-chain syncing PR
 - Berachain - NFT-based vesting streams
 - MyShell - OFT token
