@@ -2,6 +2,59 @@
 
 Reach out for consulting and security reviews via [**X**](https://twitter.com/windhustler), or **Discord**/**Telegram** @windhustler.
 
+## Private Engagements
+
+### 2025
+
+### January 2025
+- [Tether OFT - Cross chain USDT](./team/Tether-OFT-Security-Review.pdf)
+- [Puffer - ERC20 Staking](./team/Puffer-Staking-Security-Review.pdf)
+- [Azuki - Anime claimer using lzRead functionality](./team/Anime-Claimer-Security-Review.pdf)
+
+### February 2025
+- [Yuga Labs - NFT Mirror](./team/2025-02-05-YugaLabs-NFT-Shadows.pdf)
+- Dinero - Cross-chain syncing PR
+- Berachain - NFT-based vesting streams
+- MyShell - OFT token
+- [Stream - Yield bearing vaults](./team/Stream-Zenith-Security-Review.pdf)
+- Satoshi - Cross-chain staking farm
+
+### March 2025
+- Khalani - Intents protocol
+
+### April 2024
+- [PaintSwap - OFT token](./team/Paintswap-Security-Review.pdf)
+
+### 2024
+
+1. [GasBotV2 - Cross-chain refuel protocol](./solo/GasbotV2-Security-Review.md)
+2. [ProphetBots Router - Custom Univ2 router](./solo/Prophet-Router-Security-Review.md)
+3. [LayerZero V2 - Omnichain interoperability rotocol](./solo/LayerZero-V2-Security-Review.pdf)
+4. [Phuture V2- Omnichain index protocol](./team/Phuture-V2-Security-Review.pdf)
+5. [DYAD - Overcollateralized stablecoin](./team/DYAD-Security-Review.pdf)
+6. [Wagmi Leverage - Leverage protocol on UniV3](./team/Wagmi-Security-Review.pdf)
+7. [PING OFT - ERC20 transferable across chains via LayerZeroV2](./solo/PING-Security-Review.pdf)
+8. [Euler Finance - Reward streams](./team/Euler-Finance-Security-Review.pdf)
+9. [TapiocaDAO - Omnichain money market powered by LayerZero](./solo/TapiocaDAO-Security-Review.pdf)
+10. [TitanX - X28 burn and auction contract](./team/X28-Hunter-Security-Review.pdf)
+11. [Chainlink EMA - Chainlink EMA oracle](./team/Bailsec-defi.money-ChainlinkEMA.pdf)
+12. PsyDAO - NFT marketplace
+13. [Drips - LayerZeroV2 integration](./team/Drips-Security-Review.pdf)
+14. [Clave Ztake - Staking rewards](./team/Clave-Ztake-Security-Review.pdf)
+15. [Parallel Bridge - OFT with limits and fees](./team/Bailsec-ParallelBridge-BridgeableToken-Security-Review.pdf)
+16. QuantumFair - Raffle marketplace for public goods
+17. [TapiocaDAO - StargateV2 integration](./solo/TapiocaDAO-StargateV2-Security-Review.pdf)
+18. Decent - Cross-chain swaps
+19. [OFTExtended - OFT with limits and fees](./solo/OFTExtended-Security-Review.pdf)
+20. [Superform core - Cross-chain liquidity protocol](./team/Superform-core-Security-Review.pdf)
+21. Gravity - Derivatives exchange on zkSync
+22. [Clave - Email Recovery on ZkSync](./team/Clave-EmailRecovery-Security-Review.pdf)
+23. [Velodrome - Expansion to OP chains](./team/Velodrome-Security-Review.pdf) 
+24. IVX Finance - Decentralized options AMM
+25. [MRG - Bitcoin staking](./team/Mrg-Cantina-Security-Review.pdf)
+26. [Bitcorn OFT - USDC bridging from Ethereum to Corn](./solo/Bitcorn-OFT-Security-Review.pdf)
+27. PaintSwap - OFT token
+
 ## Competitive Audits
 
 | Duration             | Contest                                                                       | Description                                                                                 | Ranking |
@@ -25,81 +78,6 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 | [Radiant Capital](https://immunefi.com/bounty/radiant/)                                                              | DoS attack on the RadiantOFTs disabling cross-chain communication |  Medium   |    -     |
 | [Lybra Finance V2](https://immunefi.com/bounty/lybrafinance/)                                                        | DoS attack on the peUSD disabling cross-chain communication       |  Medium   |    -     |
 | [Premia Finance](https://app.hats.finance/bug-bounties/premia-bug-bounty-0xdaf2a62e238001cbc595628e46984734990e2c4d) | DoS attack on the vxPremia disabling cross-chain communication    |  Medium   |    -     |
-
-## Private Engagements
-
-### January 2024
-
-- [GasBotV2 - Cross-chain refuel protocol](./solo/GasbotV2-Security-Review.md)
-- [ProphetBots Router - Custom Univ2 router](./solo/Prophet-Router-Security-Review.md)
-- [LayerZero V2 - Omnichain interoperability rotocol](./solo/LayerZero-V2-Security-Review.pdf)
-
-### February 2024
-- [Phuture V2- Omnichain index protocol](./team/Phuture-V2-Security-Review.pdf)
-
-### March 2024
-
-- [DYAD - Overcollateralized stablecoin](./team/DYAD-Security-Review.pdf)
-
-### April 2024
-
-- [Wagmi Leverage - Leverage protocol on UniV3](./team/Wagmi-Security-Review.pdf)
-- [PING OFT - ERC20 transferable across chains via LayerZeroV2](./solo/PING-Security-Review.pdf)
-
-### May 2024
-- [Euler Finance - Reward streams](./team/Euler-Finance-Security-Review.pdf)
-- [TapiocaDAO - Omnichain money market powered by LayerZero](./solo/TapiocaDAO-Security-Review.pdf)
-- [TitanX - X28 burn and auction contract](./team/X28-Hunter-Security-Review.pdf)
-
-### June 2024
-- [Chainlink EMA - Chainlink EMA oracle](./team/Bailsec-defi.money-ChainlinkEMA.pdf)
-- PsyDAO - NFT marketplace 
-
-### July 2024
-- [Drips - LayerZeroV2 integration](./team/Drips-Security-Review.pdf)
-- [Clave Ztake - Staking rewards](./team/Clave-Ztake-Security-Review.pdf)
-- [Parallel Bridge - OFT with limits and fees](./team/Bailsec-ParallelBridge-BridgeableToken-Security-Review.pdf)
-- QuantumFair - Raffle marketplace for public goods
-
-### August 2024
-- [TapiocaDAO - StargateV2 integration](./solo/TapiocaDAO-StargateV2-Security-Review.pdf)
-- Decent - Cross-chain swaps
-
-### September 2024
-- [OFTExtended - OFT with limits and fees](./solo/OFTExtended-Security-Review.pdf)
-- [Superform core - Cross-chain liquidity protocol](./team/Superform-core-Security-Review.pdf)
-- Gravity - Derivatives exchange on zkSync
-
-### October 2024
-- [Clave - Email Recovery on ZkSync](./team/Clave-EmailRecovery-Security-Review.pdf)
-
-### November 2024
-- [Velodrome - Expansion to OP chains](./team/Velodrome-Security-Review.pdf) 
-- IVX Finance - Decentralized options AMM
-- [MRG - Bitcoin staking](./team/Mrg-Cantina-Security-Review.pdf)
-
-### December 2024
-- [Bitcorn OFT - USDC bridging from Ethereum to Corn](./solo/Bitcorn-OFT-Security-Review.pdf)
-- PaintSwap - OFT token
-
-### January 2025
-- [Tether OFT - Cross chain USDT](./team/Tether-OFT-Security-Review.pdf)
-- [Puffer - ERC20 Staking](./team/Puffer-Staking-Security-Review.pdf)
-- [Azuki - Anime claimer using lzRead functionality](./team/Anime-Claimer-Security-Review.pdf)
-
-### February 2025
-- [Yuga Labs - NFT Mirror](./team/2025-02-05-YugaLabs-NFT-Shadows.pdf)
-- Dinero - Cross-chain syncing PR
-- Berachain - NFT-based vesting streams
-- MyShell - OFT token
-- [Stream - Yield bearing vaults](./team/Stream-Zenith-Security-Review.pdf)
-- Satoshi - Cross-chain staking farm
-
-### March 2025
-- Khalani - Intents protocol
-
-### April 2024
-- [PaintSwap - OFT token](./team/Paintswap-Security-Review.pdf)
 
 ## Feedback
 
