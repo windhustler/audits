@@ -7,23 +7,23 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 ### 2025
 
 ### January 2025
-- [Tether OFT - Cross chain USDT](./team/Tether-OFT-Security-Review.pdf)
-- [Puffer - ERC20 Staking](./team/Puffer-Staking-Security-Review.pdf)
-- [Azuki - Anime claimer using lzRead functionality](./team/Anime-Claimer-Security-Review.pdf)
+1. [Tether OFT - Cross chain USDT](./team/Tether-OFT-Security-Review.pdf)
+2. [Puffer - ERC20 Staking](./team/Puffer-Staking-Security-Review.pdf)
+3. [Azuki - Anime claimer using lzRead functionality](./team/Anime-Claimer-Security-Review.pdf)
 
 ### February 2025
-- [Yuga Labs - NFT Mirror](./team/2025-02-05-YugaLabs-NFT-Shadows.pdf)
-- Dinero - Cross-chain syncing PR
-- Berachain - NFT-based vesting streams
-- MyShell - OFT token
-- [Stream - Yield bearing vaults](./team/Stream-Zenith-Security-Review.pdf)
-- Satoshi - Cross-chain staking farm
+4. [Yuga Labs - NFT Mirror](./team/2025-02-05-YugaLabs-NFT-Shadows.pdf)
+5. Dinero - Cross-chain syncing PR
+6. Berachain - NFT-based vesting streams
+7. MyShell - OFT token
+8. [Stream - Yield bearing vaults](./team/Stream-Zenith-Security-Review.pdf)
+9. Satoshi - Cross-chain staking farm
 
 ### March 2025
-- Khalani - Intents protocol
+10. Khalani - Intents protocol
 
 ### April 2024
-- [PaintSwap - OFT token](./team/Paintswap-Security-Review.pdf)
+11. [PaintSwap - OFT token](./team/Paintswap-Security-Review.pdf)
 
 ### 2024
 
