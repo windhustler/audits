@@ -24,6 +24,7 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 
 ### April 2024
 11. [PaintSwap - OFT token](./team/Paintswap-Security-Review.pdf)
+12. Cork - Stablecoin/LSTs depegging protection
 
 ### 2024
 
