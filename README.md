@@ -85,16 +85,14 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 What people say about my work:
 
 <p align="center">
-  <img src="./assets/gogo.png" width="250"/>
-  <img src="./assets/flint-reference.png" width="250"/>
+  <img src="./assets/gogo.png" width="250">
+  <img src="./assets/flint-reference.png" width="250">
+  <img src="./assets/layer-zero.png" width="250">
+  <img src="./assets/donation-bug-report.png" width="250">
 </p>
-
 <p align="center">
-  <img src="./assets/layer-zero.png" width="250"/>
-  <img src="./assets/donation-bug-report.png" width="250"/>
-</p>
-
-<p align="center">
-  <img src="./assets/django.png" width="250"/>
-  <img src="./assets/whitehat_bandit.png" width="250"/>
+  <img src="./assets/django.png" width="250">
+  <img src="./assets/whitehat_bandit.png" width="250">
+  <img src="./assets/gio.png" width="250">
+  <img src="./assets/raj.png" width="250">
 </p>
