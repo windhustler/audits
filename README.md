@@ -13,7 +13,7 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 
 ### February 2025
 4. [Yuga Labs - NFT Mirror](./team/2025-02-05-YugaLabs-NFT-Shadows.pdf)
-5. Dinero - Cross-chain syncing PR
+5. Dinero - Cross-chain syncing
 6. Berachain - NFT-based vesting streams
 7. MyShell - OFT token
 8. [Stream - Yield bearing vaults](./team/Stream-Zenith-Security-Review.pdf)
