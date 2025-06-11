@@ -41,8 +41,6 @@ The V2 iteration adds the functionality of adding gas tokens in addition to stab
 
 **_mitigation_review_commit_hash_ - [27dcd1c7e6ec87c837cc7b07e4cd966459f75c7d](https://github.com/GasBot-xyz/gasbot_audit/blob/27dcd1c7e6ec87c837cc7b07e4cd966459f75c7d/src/GasbotV2.sol)**
 
-**No fixes implemented.**
-
 ### Scope
 
 The following smart contracts were in the scope of the audit:
