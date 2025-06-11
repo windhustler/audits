@@ -38,8 +38,6 @@ ProphetRouterV1 is a router contract built to route all trade done through the b
 
 **_review commit hash_ - [4c91c1469eb6c64280ae6ceb79bb5221b92fbccb](https://github.com/leeftk/prophetrouter/commit/4c91c1469eb6c64280ae6ceb79bb5221b92fbccb)**
 
-**No fixes implemented.**
-
 ### Scope
 
 The following smart contracts were in the scope of the audit:
