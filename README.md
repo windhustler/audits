@@ -25,7 +25,9 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 ### April 2024
 11. [PaintSwap - OFT token](./team/Paintswap-Security-Review.pdf)
 
-### 2024
+
+### May 2024
+12. [EtaBridge - Liquidity Bridge](./team/Etabridge-Security-Review.pdf)
 
 1. [GasBotV2 - Cross-chain refuel protocol](./solo/GasbotV2-Security-Review.md)
 2. [ProphetBots Router - Custom Univ2 router](./solo/Prophet-Router-Security-Review.md)
