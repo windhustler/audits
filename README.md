@@ -6,28 +6,29 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 
 ### 2025
 
-### January 2025
 1. [Tether OFT - Cross chain USDT](./team/Tether-OFT-Security-Review.pdf)
 2. [Puffer - ERC20 Staking](./team/Puffer-Staking-Security-Review.pdf)
 3. [Azuki - Anime claimer using lzRead functionality](./team/Anime-Claimer-Security-Review.pdf)
-
-### February 2025
 4. [Yuga Labs - NFT Mirror](./team/2025-02-05-YugaLabs-NFT-Shadows.pdf)
 5. Dinero - Cross-chain syncing
 6. Berachain - NFT-based vesting streams
 7. MyShell - OFT token
 8. [Stream - Yield bearing vaults](./team/Stream-Zenith-Security-Review.pdf)
 9. Satoshi - Cross-chain staking farm
-
-### March 2025
 10. Khalani - Intents protocol
-
-### April 2024
 11. [PaintSwap - OFT token](./team/Paintswap-Security-Review.pdf)
-
-
-### May 2024
 12. [EtaBridge - Liquidity Bridge](./team/Etabridge-Security-Review.pdf)
+13. [Brahma - LayerZero ONFT721 standard](./solo/2025-04-Brahma-Security-Review.pdf)
+14. [Remilux - Staking contracts](./solo/Remilux-Staking-Security-Review.pdf)
+15. [Centrifuge - LayerZero cross-chain integration](team/Centrifuge-LayerZeroAdapter-Security-Review.pdf)
+16. Undisclosed - Staking system
+17. Undisclosed - Tiered vault system
+18. Chateau - Ethena fork
+19. Avantis - Staking and airdrop
+20. Mantle - OFT token on Hyperliquid
+21. Swell - Staking system with OFTs
+
+### 2024
 
 1. [GasBotV2 - Cross-chain refuel protocol](./solo/GasbotV2-Security-Review.md)
 2. [ProphetBots Router - Custom Univ2 router](./solo/Prophet-Router-Security-Review.md)
