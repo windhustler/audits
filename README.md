@@ -27,6 +27,7 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 19. Avantis - Staking and airdrop
 20. Mantle - OFT token on Hyperliquid
 21. Swell - Staking system with OFTs
+22. Undisclosed - Generalized system for staking rewards
 
 ### 2024
 
