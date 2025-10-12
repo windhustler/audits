@@ -20,10 +20,10 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 12. [EtaBridge - Liquidity Bridge](./team/Etabridge-Security-Review.pdf)
 13. [Brahma - LayerZero ONFT721 standard](./solo/2025-04-Brahma-Security-Review.pdf)
 14. [Remilux - Staking contracts](./solo/Remilux-Staking-Security-Review.pdf)
-15. [Centrifuge - LayerZero cross-chain integration](team/Centrifuge-LayerZeroAdapter-Security-Review.pdf)
+15. [Centrifuge - LayerZero cross-chain integration](./team/Centrifuge-LayerZeroAdapter-Security-Review.pdf)
 16. Undisclosed - Staking system
 17. Undisclosed - Tiered vault system
-18. Chateau - Ethena fork
+18. [Chateau - Ethena fork](./team/Chateau-Zenith-Security-Review.pdf)
 19. Avantis - Staking and airdrop
 20. Mantle - OFT token on Hyperliquid
 21. Swell - Staking system with OFTs
