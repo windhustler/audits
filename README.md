@@ -58,6 +58,7 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 25. [MRG - Bitcoin staking](./team/Mrg-Cantina-Security-Review.pdf)
 26. [Bitcorn OFT - USDC bridging from Ethereum to Corn](./solo/Bitcorn-OFT-Security-Review.pdf)
 27. PaintSwap - OFT token
+28. [Usual - stablecoin collateral verification](./team/Cantina-Usual-Security-Review.pdf)
 
 ## Competitive Audits
 
