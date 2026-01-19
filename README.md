@@ -28,6 +28,8 @@ Reach out for consulting and security reviews via [**X**](https://twitter.com/wi
 20. Mantle - OFT token on Hyperliquid
 21. Swell - Staking system with OFTs
 22. Undisclosed - Generalized system for staking rewards
+23. Liminal - Cross-Chain ERC4626 Vault
+24. Zircuit - Cross-Chain Aggregator
 
 ### 2024
 
